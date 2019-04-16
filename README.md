@@ -1,3 +1,8 @@
+介绍
+1.基于React模拟网易云APP
+2.数据接口使用的是网易云音乐 API 
+github地址：https://github.com/tjutzk/NeteaseCloudMusicApi.git
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
